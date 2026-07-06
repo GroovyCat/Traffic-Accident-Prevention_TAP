@@ -35,7 +35,7 @@
     </tr>
     <tr>
       <td align="center">개발 기간</td>
-      <td>4학년 1학기 - 학사 4년차</td>
+      <td>2020년 1학기 - 학사 4년차</td>
     </tr>
     <tr>
       <td align="center">팀명</td>
