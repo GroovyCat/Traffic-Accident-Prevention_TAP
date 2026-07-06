@@ -1,3 +1,0 @@
-C:/VScode/openCV_Project/CMakeFiles/openCV_Project.dir
-C:/VScode/openCV_Project/CMakeFiles/edit_cache.dir
-C:/VScode/openCV_Project/CMakeFiles/rebuild_cache.dir
