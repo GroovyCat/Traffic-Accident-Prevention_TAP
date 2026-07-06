@@ -265,7 +265,7 @@ cd Traffic-Accident-Prevention_TAP
 
 ### 2. 의존성 설치
 
-- Visual Studio 2019 설치
+**Visual Studio 2019 설치**
 
 **OpenCV 4.1.1 (MinGW 빌드)**
 - [OpenCV MinGW 빌드 다운로드](https://github.com/huihut/OpenCV-MinGW-Build)
