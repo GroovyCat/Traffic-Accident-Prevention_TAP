@@ -69,14 +69,14 @@
     <tr>
       <th width="80" style="text-align:center">이름</th>
       <th width="100" style="text-align:center">역할</th>
-      <th width="300" style="text-align:center">작업</th>
+      <th width="450" style="text-align:center">작업</th>
     </tr>
   </thead>
   <tbody>
     <tr>
       <td align="center">채윤재</td>
       <td align="center">팀장</td>
-      <td>프로젝트 설계, 보행자 인식 개선</td>
+      <td>프로젝트 설계, 보행자 인식 개선, 경고음 출력 알고리즘</td>
     </tr>
     <tr>
       <td align="center">박문영</td>
