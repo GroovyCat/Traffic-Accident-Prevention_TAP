@@ -157,23 +157,73 @@ ROI 지정
 
 ### YOLO v3 Average Precision
 
-| 클래스 | Average Precision | MAP |
-|---|---|---|
-| person[1] | 99.62% | 95.18% |
-| person[2] | 99.58% | |
-| person[3] | 99.33% | |
-| person[4] | 95.93% | |
-| person[5] | 81.46% | |
+<table>
+  <thead>
+    <tr>
+      <th align="center">클래스</th>
+      <th align="center">Average Precision</th>
+      <th align="center">MAP</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center">person[1]</td>
+      <td align="center">99.62%</td>
+      <td align="center" rowspan="5">95.18%</td>
+    </tr>
+    <tr>
+      <td align="center">person[2]</td>
+      <td align="center">99.58%</td>
+    </tr>
+    <tr>
+      <td align="center">person[3]</td>
+      <td align="center">99.33%</td>
+    </tr>
+    <tr>
+      <td align="center">person[4]</td>
+      <td align="center">95.93%</td>
+    </tr>
+    <tr>
+      <td align="center">person[5]</td>
+      <td align="center">81.46%</td>
+    </tr>
+  </tbody>
+</table>
 
 ### YOLO v3-tiny Average Precision
 
-| 클래스 | Average Precision | MAP |
-|---|---|---|
-| person[1] | 71.69% | 64.37% |
-| person[2] | 71.21% | |
-| person[3] | 70.13% | |
-| person[4] | 55.16% | |
-| person[5] | 53.69% | |
+<table>
+  <thead>
+    <tr>
+      <th align="center">클래스</th>
+      <th align="center">Average Precision</th>
+      <th align="center">MAP</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center">person[1]</td>
+      <td align="center">71.69%</td>
+      <td align="center" rowspan="5">64.37%</td>
+    </tr>
+    <tr>
+      <td align="center">person[2]</td>
+      <td align="center">71.21%</td>
+    </tr>
+    <tr>
+      <td align="center">person[3]</td>
+      <td align="center">70.13%</td>
+    </tr>
+    <tr>
+      <td align="center">person[4]</td>
+      <td align="center">55.16%</td>
+    </tr>
+    <tr>
+      <td align="center">person[5]</td>
+      <td align="center">53.69%</td>
+    </tr>
+  </tbody>
+</table>
 
 > YOLOv3-tiny를 채택한 이유: 소형 기기 환경에서도 적당한 성능을 낼 수 있도록 경량화 모델을 선택하였으며, 차량 보조 장치 특성상 v3-tiny 모델이 적합하다고 판단하였다.
 
