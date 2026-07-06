@@ -266,8 +266,17 @@ cd Traffic-Accident-Prevention_TAP
 ### 2. 의존성 설치
 
 - Visual Studio 2019 설치
-- OpenCV 설치 및 환경변수 설정
-- YOLO v3-tiny 가중치 파일 다운로드
+
+**OpenCV 4.1.1 (MinGW 빌드)**
+- [OpenCV MinGW 빌드 다운로드](https://github.com/huihut/OpenCV-MinGW-Build)
+- 설치 경로: `C:/opencv-mingw/build`
+
+**YOLO v3-tiny 가중치 파일**
+- [yolov3-tiny.weights 다운로드](https://pjreddie.com/media/files/yolov3-tiny.weights)
+- 프로젝트 루트에 위치
+
+**CMake**
+- [CMake 다운로드](https://cmake.org/download/)
 
 ### 3. 빌드 및 실행
 
